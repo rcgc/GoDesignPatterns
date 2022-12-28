@@ -1,4 +1,6 @@
 # GoDesignPatterns
+Source files from the course: [Go Design Patterns](https://www.linkedin.com/learning/go-design-patterns/go-design-patterns) taught by [Joe Marini](https://www.linkedin.com/learning/instructors/joe-marini?u=76737724). Every folder consists of a different design pattern corresponding to a completely different problem. Most of the details are explained in every diagram in the readme section. <br><br>
+
 ## Adapter
 ![Adapter_UML](https://github.com/rcgc/GoDesignPatterns/blob/master/UMLDiagrams/Adapter.png)
 <p><b>Figure 1. </b>Adapter Pattern</p><br>
